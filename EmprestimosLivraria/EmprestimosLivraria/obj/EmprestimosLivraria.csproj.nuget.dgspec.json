@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allis\\OneDrive\\Documentos\\EmprestimosLivraria\\EmprestimosLivraria\\EmprestimosLivraria.csproj": {}
+    "C:\\Users\\allis\\OneDrive\\Documentos\\EmpresTIMO\\EmprestimoDeLivros\\EmprestimosLivraria\\EmprestimosLivraria\\EmprestimosLivraria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allis\\OneDrive\\Documentos\\EmprestimosLivraria\\EmprestimosLivraria\\EmprestimosLivraria.csproj": {
+    "C:\\Users\\allis\\OneDrive\\Documentos\\EmpresTIMO\\EmprestimoDeLivros\\EmprestimosLivraria\\EmprestimosLivraria\\EmprestimosLivraria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allis\\OneDrive\\Documentos\\EmprestimosLivraria\\EmprestimosLivraria\\EmprestimosLivraria.csproj",
+        "projectUniqueName": "C:\\Users\\allis\\OneDrive\\Documentos\\EmpresTIMO\\EmprestimoDeLivros\\EmprestimosLivraria\\EmprestimosLivraria\\EmprestimosLivraria.csproj",
         "projectName": "EmprestimosLivraria",
-        "projectPath": "C:\\Users\\allis\\OneDrive\\Documentos\\EmprestimosLivraria\\EmprestimosLivraria\\EmprestimosLivraria.csproj",
+        "projectPath": "C:\\Users\\allis\\OneDrive\\Documentos\\EmpresTIMO\\EmprestimoDeLivros\\EmprestimosLivraria\\EmprestimosLivraria\\EmprestimosLivraria.csproj",
         "packagesPath": "C:\\Users\\allis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allis\\OneDrive\\Documentos\\EmprestimosLivraria\\EmprestimosLivraria\\obj\\",
+        "outputPath": "C:\\Users\\allis\\OneDrive\\Documentos\\EmpresTIMO\\EmprestimoDeLivros\\EmprestimosLivraria\\EmprestimosLivraria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allis\\AppData\\Roaming\\NuGet\\NuGet.Config",

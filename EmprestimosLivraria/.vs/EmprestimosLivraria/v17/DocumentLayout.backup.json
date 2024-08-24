@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\allis\\OneDrive\\Documentos\\EmprestimosLivraria\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\allis\\OneDrive\\Documentos\\EmpresTIMO\\EmprestimoDeLivros\\EmprestimosLivraria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDBD474-817F-4E6A-BBAF-B58D753C5827}|EmprestimosLivraria\\EmprestimosLivraria.csproj|c:\\users\\allis\\onedrive\\documentos\\emprestimo\\emprestimodelivros\\emprestimoslivraria\\emprestimoslivraria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FDBD474-817F-4E6A-BBAF-B58D753C5827}|EmprestimosLivraria\\EmprestimosLivraria.csproj|solutionrelative:emprestimoslivraria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\allis\\OneDrive\\Documentos\\EmpresTIMO\\EmprestimoDeLivros\\EmprestimosLivraria\\EmprestimosLivraria\\appsettings.json",
+              "RelativeDocumentMoniker": "EmprestimosLivraria\\appsettings.json",
+              "ToolTip": "C:\\Users\\allis\\OneDrive\\Documentos\\EmpresTIMO\\EmprestimoDeLivros\\EmprestimosLivraria\\EmprestimosLivraria\\appsettings.json",
+              "RelativeToolTip": "EmprestimosLivraria\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T02:14:01.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
