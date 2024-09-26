@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace EmprestimosLivraria.Migrations
 {
-    [DbContext(typeof(AplicationDbContex))]
+    [DbContext(typeof(ApplicationDbContex))]
     partial class AplicationDbContexModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
@@ -33,11 +33,15 @@ namespace EmprestimosLivraria.Migrations
                     b.Property<DateTime>("DataUltimaAtualizacao")
                         .HasColumnType("datetime2");
 
+                    b.Property<string>("Fornecedor")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("LivroEmprestado")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Recbedor")
+                    b.Property<string>("Recebedor")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
