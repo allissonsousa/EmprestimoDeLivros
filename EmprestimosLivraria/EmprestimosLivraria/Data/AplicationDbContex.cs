@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace EmprestimosLivraria.Data
 {
-    public class AplicationDbContex : DbContext
+    public class ApplicationDbContex : DbContext
     {
-        public AplicationDbContex(DbContextOptions<AplicationDbContex> options) : base(options) 
+        public ApplicationDbContex(DbContextOptions<ApplicationDbContex> options) : base(options) 
         { 
         }
 
